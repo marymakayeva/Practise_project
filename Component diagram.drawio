@@ -154,17 +154,20 @@
         <mxCell id="lIl5ft34WkOeI8g9TdbY-7" value="Vitals data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lIl5ft34WkOeI8g9TdbY-8" value="Alert monitoring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lIl5ft34WkOeI8g9TdbY-8" value="Irregularities&lt;div&gt;information&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIl5ft34WkOeI8g9TdbY-9" value="Real-time vitals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIl5ft34WkOeI8g9TdbY-10" value="Real-time vitals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIl5ft34WkOeI8g9TdbY-12" value="Real-time vitals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lIl5ft34WkOeI8g9TdbY-13" value="Alert&amp;nbsp;&lt;div&gt;information&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
