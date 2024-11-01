@@ -118,6 +118,32 @@
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-0" value="User Post" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="10" width="160" height="170" as="geometry">
+            <mxRectangle x="20" y="10" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-1" value="-name: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-QlepTssYbIrXIDLhww-0">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-2" value="-password: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="E-QlepTssYbIrXIDLhww-0">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-3" value="-created posts: array" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="E-QlepTssYbIrXIDLhww-0">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="E-QlepTssYbIrXIDLhww-0">
+          <mxGeometry y="104" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-5" value="-setName()&#xa;-publishPost()&#xa;-deletePost()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E-QlepTssYbIrXIDLhww-0">
+          <mxGeometry y="112" width="160" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QlepTssYbIrXIDLhww-6" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=0.413;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E-QlepTssYbIrXIDLhww-5" target="zkfFHV4jXpPFQw0GAbJ--5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="190" as="sourcePoint" />
+            <mxPoint x="490" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
